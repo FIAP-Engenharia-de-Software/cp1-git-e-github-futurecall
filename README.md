@@ -39,6 +39,11 @@ Você pode acessar a documentação e visualização do projeto através do link
 
 👉 **[Visualizar no GitHub Pages](https://fiap-engenharia-de-software.github.io/cp1-git-e-github-futurecall/)**
 
+## 🔗 Site Publicado (GitHub Pages)
+Acesse a interface e documentação do projeto através do link abaixo:
+
+👉 **[https://fiap-engenharia-de-software.github.io/cp1-git-e-github-futurecall/](https://fiap-engenharia-de-software.github.io/cp1-git-e-github-futurecall/)**
+
 ---
 
 *Projeto desenvolvido como parte do Checkpoint 1 - Engenharia de Software FIAP.*
